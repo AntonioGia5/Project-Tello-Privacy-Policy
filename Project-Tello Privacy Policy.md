@@ -1,3 +1,4 @@
+# DriveAI Privacy Policy
 DriveAI operates the DriveAI iOS App and the https://www.facebook.com/Project-Tello-Hitrost-479846149136510/?modal=admin_todo_tour Facebook page. This page informs you of our policies regarding the collection, use and disclosure of personal information when you use our Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 You privacy is of upmost important to DriveAI, which is why we aspire the be as transparent as possible about out policies and practices related to data use. We will keep this information up to date and will point out all significant points also within the DriveAI iOS App, to make our users as aware of this as possible.
 
